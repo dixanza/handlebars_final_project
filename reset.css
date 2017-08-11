@@ -7,7 +7,7 @@
 /* --- set default font-size, line-height, and font-family */
 /* http://filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html */
 
-body {
+html {
 	font: 100%/1 sans-serif;
 }
 
